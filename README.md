@@ -14,7 +14,7 @@ print("Conversion of " + hours + " Hours and " + minutes + " Minutes into Second
 
 
 
-**SAMPLE OUTPUT
+**SAMPLE OUTPUT****
 **
 .....................................................
 Hours   :  |  2
